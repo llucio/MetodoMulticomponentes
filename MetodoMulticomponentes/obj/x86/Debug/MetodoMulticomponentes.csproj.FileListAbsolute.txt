@@ -1,0 +1,9 @@
+c:\documents and settings\luis\my documents\visual studio 2010\Projects\MetodoMulticomponentes\MetodoMulticomponentes\bin\Debug\MetodoMulticomponentes.exe
+c:\documents and settings\luis\my documents\visual studio 2010\Projects\MetodoMulticomponentes\MetodoMulticomponentes\bin\Debug\MetodoMulticomponentes.pdb
+c:\documents and settings\luis\my documents\visual studio 2010\Projects\MetodoMulticomponentes\MetodoMulticomponentes\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\luis\my documents\visual studio 2010\Projects\MetodoMulticomponentes\MetodoMulticomponentes\obj\x86\Debug\MetodoMulticomponentes.Form1.resources
+c:\documents and settings\luis\my documents\visual studio 2010\Projects\MetodoMulticomponentes\MetodoMulticomponentes\obj\x86\Debug\MetodoMulticomponentes.Properties.Resources.resources
+c:\documents and settings\luis\my documents\visual studio 2010\Projects\MetodoMulticomponentes\MetodoMulticomponentes\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\luis\my documents\visual studio 2010\Projects\MetodoMulticomponentes\MetodoMulticomponentes\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\luis\my documents\visual studio 2010\Projects\MetodoMulticomponentes\MetodoMulticomponentes\obj\x86\Debug\MetodoMulticomponentes.exe
+c:\documents and settings\luis\my documents\visual studio 2010\Projects\MetodoMulticomponentes\MetodoMulticomponentes\obj\x86\Debug\MetodoMulticomponentes.pdb
